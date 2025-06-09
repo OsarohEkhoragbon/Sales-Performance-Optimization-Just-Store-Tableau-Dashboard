@@ -56,6 +56,8 @@ Just-Store operates in a competitive retail environment, offering diverse produc
 ## 🛠️ Tools Used
 - **Tableau Desktop Public Edition**
 - **Data Prep**: Cleaned and standardized raw sales data
+- **Dashboard Filters**
+- **Time-Series Visualization**
 
 ---
 
