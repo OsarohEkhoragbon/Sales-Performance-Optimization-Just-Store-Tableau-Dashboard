@@ -69,7 +69,7 @@ Just-Store operates in a competitive retail environment, offering diverse produc
 ## 📬 Let’s Connect
 
 📧 Email: osarohekhoragbon@gmail.com  
-💼 LinkedIn: [linkedin.com/in/osarohekhoragbon](https://www.linkedin.com/in/osarohekhoragbon)  
+💼 LinkedIn:(https://www.linkedin.com/posts/osaroh-ekhoragbon_90daysofconsistency-osarohdataanalyticsjourneywith10alytics-activity-7338140088981209088-2-Zw?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAkcTOMBH04A-GBT9XWCy_GRBdwnuvWM7qY)  
 🌐 GitHub: [github.com/OsarohEkhoragbon](https://github.com/OsarohEkhoragbon)
 
 ---
